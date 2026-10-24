@@ -1,0 +1,9 @@
+# Build output
+godic-server
+
+# Editor / tooling index
+tags
+
+# Go test & profiling output
+*.test
+*.out
